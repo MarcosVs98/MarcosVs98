@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [Praxio Tecnologia](https://praxio.com.br/?gclid=Cj0KCQjw5uWGBhCTARIsAL70sLK5KOLJsZL32Vzr5ut9Z0ul_JTb50ux_osW363stIAh3DHKVq7Pj-EaAo2zEALw_wcB) as a C# Developer
 - 🌱 I’m currently learning [Bachelor of Information Systems](https://en.wikipedia.org/wiki/Bachelor_of_Information_Systems) at [Universidade do Vale do Rio dos Sinos](https://pt.wikipedia.org/wiki/Universidade_do_Vale_do_Rio_dos_Sinos)
-- 📫 How to reach me: ... [E-mail: ]()marcosvs@protonmail.com and [phone: ]() +5551985039328)
+- 📫 How to reach me: ... [E-mail: ]()marcosvs@protonmail.com and [phone: ]() +5551985039328
 
 
 
