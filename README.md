@@ -15,12 +15,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MarcosVs98" alt="MarcosVs98"/></a></p>
 
 
-
-**MarcosVs98/MarcosVs98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on [Praxio Tecnologia](https://praxio.com.br/?gclid=Cj0KCQjw5uWGBhCTARIsAL70sLK5KOLJsZL32Vzr5ut9Z0ul_JTb50ux_osW363stIAh3DHKVq7Pj-EaAo2zEALw_wcB) as a C# Developer
+- 🔭 I’m currently working on [Praxio Tecnologia](https://praxio.com.br) as a C# Developer
 - 🌱 I’m currently learning [Bachelor of Information Systems](https://en.wikipedia.org/wiki/Bachelor_of_Information_Systems) at [Universidade do Vale do Rio dos Sinos](https://pt.wikipedia.org/wiki/Universidade_do_Vale_do_Rio_dos_Sinos)
 - 📫 How to reach me: ... [E-mail: ]()marcosvs@protonmail.com and [phone: ]() +5551985039328
 
