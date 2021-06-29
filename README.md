@@ -51,4 +51,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... [E-mail: ]()marcosvs@protonmail.com and [phone: ]() +5551985039328
 - 🔭 “Imagination is more important than knowledge. Knowledge is limited, while imagination embraces the entire world, spurring progress and giving rise to evolution. Albert Einstein”
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MarcosVs98)](https://github.com/ryo-ma/github-profile-trophy)
