@@ -50,3 +50,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning [Bachelor of Information Systems](https://en.wikipedia.org/wiki/Bachelor_of_Information_Systems) at [Universidade do Vale do Rio dos Sinos](https://pt.wikipedia.org/wiki/Universidade_do_Vale_do_Rio_dos_Sinos)
 - 📫 How to reach me: ... [E-mail: ]()marcosvs@protonmail.com and [phone: ]() +5551985039328
 - 🔭 “Imagination is more important than knowledge. Knowledge is limited, while imagination embraces the entire world, spurring progress and giving rise to evolution. Albert Einstein”
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=MarcosVs98)](https://github.com/ryo-ma/github-profile-trophy)
