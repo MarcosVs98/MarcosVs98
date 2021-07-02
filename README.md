@@ -4,6 +4,8 @@
 
 <p align="left"> 
     <a href="https://www.python.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="python"  width="40" height="40"/> </a>
+    
+<a href="https://grafana.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/grafana.svg" alt="grafana"  width="40" height="40"/> </a>
     <a href="https://www.atlassian.com/software/jira?" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="jira"  width="40" height="40"/>  </a>    
     <a href="https://www.elastic.co/pt/what-is/elasticsearch" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/elasticsearch.svg" alt="python"  width="40" height="40"/>  </a>
     <a href="https://us-east-2.console.aws.amazon.com/ec2/v2/home?region=us-east-2#Instances:" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="python"  width="40" height="40"/>  </a>
@@ -14,6 +16,7 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>    
     <a href="https://azure.microsoft.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/azure-1.svg" alt="azure" width="40" height="40"/> </a>
     <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/flask.svg" alt="flask" width="40" height="40"/> </a>    
+    <a href="https://www.zabbix.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/zabbix-1.svg" alt="zabbix"  width="40" height="40"/> </a>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>  </a>
     <a href="https://curl.se/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/curl.svg" alt="curl" width="40" height="40"/>  </a>    
     <a href="https://bitcoin.org/pt_BR/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/bitcoin.svg" alt="bitcoin" width="40" height="40"/>  </a>
