@@ -3,9 +3,8 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left"> 
-    <a href="https://www.python.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="python"  width="40" height="40"/> </a>
-    
-<a href="https://grafana.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/grafana.svg" alt="grafana"  width="40" height="40"/> </a>
+    <a href="https://www.python.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="python"  width="40" height="40"/> </a>    
+    <a href="https://grafana.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/grafana.svg" alt="grafana"  width="40" height="40"/> </a>
     <a href="https://www.atlassian.com/software/jira?" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="jira"  width="40" height="40"/>  </a>    
     <a href="https://www.elastic.co/pt/what-is/elasticsearch" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/elasticsearch.svg" alt="python"  width="40" height="40"/>  </a>
     <a href="https://us-east-2.console.aws.amazon.com/ec2/v2/home?region=us-east-2#Instances:" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="python"  width="40" height="40"/>  </a>
