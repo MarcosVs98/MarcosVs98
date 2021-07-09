@@ -32,14 +32,13 @@
     <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django"  width="40" height="40"/>  </a>
 </p>
 
+
 <p align="left"> 
     <a href="https://docs.codersrank.io/widgets/skills-chart-widget"><img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=marcosvs98&badges=3&show-avatar=false&style=--header-bg-color:#edf1f3;--border-radius:0px"/></a>
 </p>
 
 
 ![](https://github-readme-stats.vercel.app/api?username=MarcosVs98&show_icons=true&locale=en)  |  ![](https://github-readme-streak-stats.herokuapp.com/?user=MarcosVs98&)
-
-
 
 
 <p align="left"> 
