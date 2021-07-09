@@ -37,9 +37,9 @@
     <a href="https://docs.codersrank.io/widgets/skills-chart-widget"><img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=marcosvs98&badges=3&show-avatar=false&style=--header-bg-color:#edf1f3;--border-radius:0px"/></a>
 </p>
 
+![](https://github-readme-stats.vercel.app/api?username=MarcosVs98&show_icons=true&locale=en)   
 
-![](https://github-readme-stats.vercel.app/api?username=MarcosVs98&show_icons=true&locale=en)  |  ![](https://github-readme-streak-stats.herokuapp.com/?user=MarcosVs98&)
-
+![](https://github-readme-streak-stats.herokuapp.com/?user=MarcosVs98&)
 
 <p align="left"> 
     <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MarcosVs98" alt="MarcosVs98"/></a>
