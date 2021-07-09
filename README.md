@@ -33,7 +33,7 @@
 </p>
 
 <p align="left"> 
-    <a href="https://docs.codersrank.io/widgets/skills-chart-widget"><img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=marcosvs98&badges=2&show-avatar=true&style=--header-bg-color:#edf1f3;--border-radius:10px"/>
+    <a href="https://docs.codersrank.io/widgets/skills-chart-widget"><img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=marcosvs98&badges=2&show-avatar=false&style=--header-bg-color:#edf1f3;--border-radius:10px"/>
 </p>
 
 
