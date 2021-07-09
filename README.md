@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Marcos Silveira</h1>
 
+<p align="left"> 
+    <img src="https://komarev.com/ghpvc/?username=MarcosVs98&label=Profile%20views&color=0e75b6&style=flat" alt="MarcosVs98"/>
+</p>
+
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left"> 
@@ -28,19 +32,15 @@
     <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django"  width="40" height="40"/>  </a>
 </p>
 
-<p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MarcosVs98&show_icons=true&locale=en&layout=compact" alt="MarcosVs98" />
-</p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MarcosVs98&show_icons=true&locale=en" alt="MarcosVs98"/></p>
-
-<p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MarcosVs98&" alt="MarcosVs98"/>
-</p>
-
 <p align="left"> 
-    <img src="https://komarev.com/ghpvc/?username=MarcosVs98&label=Profile%20views&color=0e75b6&style=flat" alt="MarcosVs98"/>
+    <a href="https://docs.codersrank.io/widgets/skills-chart-widget"><img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=marcosvs98&badges=2&show-avatar=true&style=--header-bg-color:#edf1f3;--border-radius:10px"/>
 </p>
+
+
+![](https://github-readme-stats.vercel.app/api?username=MarcosVs98&show_icons=true&locale=en)  |  ![](https://github-readme-streak-stats.herokuapp.com/?user=MarcosVs98&)
+
+
+
 
 <p align="left"> 
     <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MarcosVs98" alt="MarcosVs98"/></a>
@@ -52,4 +52,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning [Bachelor of Information Systems](https://en.wikipedia.org/wiki/Bachelor_of_Information_Systems) at [Universidade do Vale do Rio dos Sinos](https://pt.wikipedia.org/wiki/Universidade_do_Vale_do_Rio_dos_Sinos)
 - 📫 How to reach me: ... [E-mail: ]()marcosvs@protonmail.com and [phone: ]() +5551985039328
 - 🔭 “Imagination is more important than knowledge. Knowledge is limited, while imagination embraces the entire world, spurring progress and giving rise to evolution. Albert Einstein”
+
+<p align="left"> 
+    <a href="https://docs.codersrank.io/widgets/skills-chart-widget"><img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=marcosvs98" alt="MarcosVs98"/></a>
+</p>
 
