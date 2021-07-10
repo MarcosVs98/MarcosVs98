@@ -34,7 +34,7 @@
 
 
 <p align="left"> 
-    <a href="https://docs.codersrank.io/widgets/skills-chart-widget"><img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=marcosvs98&badges=3&show-avatar=false&style=--header-bg-color:#edf1f3;--border-radius:0px"/></a>
+    <a href="https://profile.codersrank.io/user/marcosvs98"><img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=marcosvs98&badges=3&show-avatar=false&style=--header-bg-color:#edf1f3;--border-radius:0px"/></a>
 </p>
 
 ![](https://github-readme-stats.vercel.app/api?username=MarcosVs98&show_icons=true&locale=en)   
