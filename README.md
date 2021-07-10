@@ -37,9 +37,13 @@
     <a href="https://profile.codersrank.io/user/marcosvs98"><img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=marcosvs98&badges=3&show-avatar=false&style=--header-bg-color:#edf1f3;--border-radius:0px"/></a>
 </p>
 
-![](https://github-readme-stats.vercel.app/api?username=MarcosVs98&show_icons=true&locale=en)   
+<p align="left">
+    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-readme-stats.vercel.app/api?username=MarcosVs98&show_icons=true&locale=en"/></a>
+</p>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=MarcosVs98&)
+<p align="left">
+    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-readme-streak-stats.herokuapp.com/?user=MarcosVs98&"/></a>
+</p>
 
 <p align="left"> 
     <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MarcosVs98" alt="MarcosVs98"/></a>
@@ -55,4 +59,3 @@ Here are some ideas to get you started:
 <p align="left"> 
     <a href="https://docs.codersrank.io/widgets/skills-chart-widget"><img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=marcosvs98" alt="MarcosVs98"/></a>
 </p>
-
