@@ -32,9 +32,8 @@
     <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django"  width="40" height="40"/>  </a>
 </p>
 
-
 <p align="left"> 
-    <a href="https://profile.codersrank.io/user/marcosvs98"><img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=marcosvs98&badges=3&show-avatar=false&style=--header-bg-color:#edf1f3;--border-radius:0px"/></a>
+    <a href="https://profile.codersrank.io/user/marcosvs98"><img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=marcosvs98&badges=5&show-avatar=false&style=--border-radius:0px"/></a>    
 </p>
 
 <p align="left">
