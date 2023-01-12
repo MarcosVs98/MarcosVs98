@@ -8,7 +8,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on [Zapay Pagamentos](https://usezapay.com.br) as a Tech Lead Developer
+- 🔭 I’m currently working on [Zapay Pagamentos](https://usezapay.com.br) as a Platform Software Engineer
 - 🌱 I’m currently learning [Bachelor of Information Systems](https://en.wikipedia.org/wiki/Bachelor_of_Information_Systems) at the [Universidade do Vale do Rio dos Sinos](https://pt.wikipedia.org/wiki/Universidade_do_Vale_do_Rio_dos_Sinos)
 - 📫 How to reach me: ... [E-mail: ]()marcosvs@protonmail.com and [phone: ]() +5551985039328
 - 🔭 “Imagination is more important than knowledge. Knowledge is limited, while imagination embraces the entire world, spurring progress and giving rise to evolution. Albert Einstein”
